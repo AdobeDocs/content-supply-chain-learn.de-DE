@@ -8,13 +8,13 @@ role: Admin, User, Leader, Data Architect, Data Engineer
 level: Beginner
 last-substantial-update: 2024-03-06T00:00:00Z
 jira: KT-14157
-source-git-commit: f3082975a674a13152aa92c06302e67e9f4715b6
+exl-id: 36b8569a-21a4-40da-ae24-e6b0ca2a0463
+source-git-commit: f0748e0965ac87999067e0c031408cb556e396d1
 workflow-type: tm+mt
 source-wordcount: '726'
 ht-degree: 43%
 
 ---
-
 
 # Versand- und Aktivierungstutorials
 
@@ -91,7 +91,7 @@ Die für die Aktivierung und Analyse von Inhalten verwendeten Adobe-Lösungen:
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/assets-essentials-overview.html" title="Übersicht über Assets Essentials">Übersicht über Assets Essentials</a>
+            <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/assets-essentials-overview.html" title="Übersicht über Assets Essentials">Assets Essentials - Überblick</a>
           </p>
           <p class="is-size-6">Verschaffen Sie sich einen Überblick über die Assets Essentials-Funktionen und wie sie in Adobe Journey Optimizer verwendet werden können.</p>
         </div>
