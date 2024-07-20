@@ -9,13 +9,13 @@ level: Beginner
 last-substantial-update: 2024-03-06T00:00:00Z
 jira: KT-15077
 hidefromtoc: true
-source-git-commit: fecc107042220664ce5b76584f834a025844ef4b
+exl-id: 143fe064-bb49-4f66-936a-813edbf0b95a
+source-git-commit: 32c8aba7f65e8eb72f52c532a623df52d1473ffd
 workflow-type: tm+mt
 source-wordcount: '441'
-ht-degree: 29%
+ht-degree: 30%
 
 ---
-
 
 # Berichte und Insights-Tutorials
 
@@ -38,7 +38,7 @@ Die für die Planung und den Workflow verwendeten Adobe-Lösungen:
 
 >[!TIP]
 >
->Unser Adobe-Produktexpertenteam hat eine Reihe von Integrations-Tutorials für wichtige Anwendungsfälle der Inhaltsversorgungskette zusammengestellt. Wenn Sie mehr als eine Lösung verwenden, erfahren Sie, wie Sie sie am besten integrieren können!  Sehen Sie sich die [Tutorials zur Integration von Inhaltsversorgungsketten](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/solution-categories/content-supply-chain.html?lang=en).
+>Unser Adobe-Produktexpertenteam hat eine Reihe von Integrations-Tutorials für wichtige Anwendungsfälle der Inhaltsversorgungskette zusammengestellt. Wenn Sie mehr als eine Lösung verwenden, erfahren Sie, wie Sie sie am besten integrieren können!  Sehen Sie sich die Tutorials zur Integration der [Inhaltslieferkette](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/solution-categories/content-supply-chain.html?lang=en) an.
 
 ## Empfohlene Kurse
 
@@ -52,7 +52,7 @@ Die für die Planung und den Workflow verwendeten Adobe-Lösungen:
           <a href="https://experienceleague.adobe.com/docs/courses/using/experiencemanager-u-1-2023-assets-essentials.html" target="_blank">
         <strong>Erste Schritte mit AEM Assets Essentials</strong></a>
         <p class="is-size-7 recs-limit-description">Erfahren Sie, wie AEM Assets Essentials die Asset-Verwaltung für Ihr Unternehmen optimieren kann.</p>
-        <p><a href="https://experienceleague.adobe.com/docs/courses/using/experiencemanager-u-1-2023-assets-essentials.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Weitere Infos</span></a></p>
+        <p><a href="https://experienceleague.adobe.com/docs/courses/using/experiencemanager-u-1-2023-assets-essentials.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Weitere Informationen</span></a></p>
         </div>
       </td>
       <td style="width:33%">
@@ -64,7 +64,7 @@ Die für die Planung und den Workflow verwendeten Adobe-Lösungen:
         <strong>Konfigurieren von AEM Assets für Administratoren</strong></a>
         <p class="is-size-7 recs-limit-description">Erfahren Sie, wie Sie eine solide Grundlage für Ihre AEM Assets-Implementierung schaffen können, indem Sie die wichtigsten Anliegen konfigurieren, von der Einrichtung einer grundlegenden Inhaltsarchitektur und -taxonomie bis hin zur Anpassung von Metadaten und Asset-Verarbeitung.</p>
         </div>
-        <p><a href="https://experienceleague.adobe.com/docs/courses/using/experiencemanager-a-1-2020-1-assets.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Weitere Infos</span></a></p>
+        <p><a href="https://experienceleague.adobe.com/docs/courses/using/experiencemanager-a-1-2020-1-assets.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Weitere Informationen</span></a></p>
       </td>
     </tr>
 </table>
@@ -83,12 +83,12 @@ Die für die Planung und den Workflow verwendeten Adobe-Lösungen:
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/overview.html" title="Integration von Adobe Workfront und AEM Assets Essentials">Integration von Adobe Workfront und AEM Assets Essentials</a>
+              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/overview.html" title="Integration von Adobe Workfront und AEM Assets Essentials">Integrieren von Adobe Workfront- und AEM Assets-Grundlagen</a>
           </p>
           <p class="is-size-6"><em>Erfahren Sie, wie Sie Workfront und AEM Assets Essentials integrieren können, um die Verwaltung von kreativen Workflows zu optimieren.</em></p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Weitere Infos</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Mehr erfahren</span>
       </a>
     </div>
   </div>
@@ -104,7 +104,7 @@ Die für die Planung und den Workflow verwendeten Adobe-Lösungen:
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/wf-adobe-cc.html" title="Verwenden von Adobe Workfront-Plug-ins zur Integration mit Creative Cloud">Verwenden von Adobe Workfront-Plug-ins zur Integration mit Creative Cloud</a>
+              <a href="https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/wf-adobe-cc.html" title="Verwenden von Adobe Workfront-Plug-ins zur Integration mit Creative Cloud">Verwenden Sie Adobe Workfront-Plug-ins zur Integration mit Creative Cloud</a>
           </p>
           <p class="is-size-6"><em>Integrieren Sie Workfront mit Creative Cloud, um die Ihnen zugewiesenen Aufgaben zu finden und zu aktualisieren, ohne Adobe Creative Cloud zu verlassen.</em></p>
       </div>
@@ -146,7 +146,7 @@ Die für die Planung und den Workflow verwendeten Adobe-Lösungen:
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/workfront/enhanced-connector/basics.html?lang=de" title="Grundlagen zum erweiterten Workfront-Connector">Grundlagen zum Workfront-Connector</a>
+              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/workfront/enhanced-connector/basics.html?lang=de" title="Grundlagen zum erweiterten Workfront-Connector">Workfront - Grundlagen für erweiterten Connector</a>
           </p>
           <p class="is-size-6"><em>Erfahren Sie mehr über die Grundlagen des erweiterten Connectors für Adobe Workfront und Experience Manager Assets.</em></p>
       </div>
@@ -255,4 +255,4 @@ Die für die Planung und den Workflow verwendeten Adobe-Lösungen:
 ## Zusätzliche Ressourcen
 
 * [Experience League-Ereignisse](https://experienceleague.adobe.com/events/)
-* [Adobe auf der Inhaltsversorgungskette](https://business.adobe.com/resources/webinars/adobe-on-the-content-supply-chain.html)
+* [Adobe in der Inhaltsversorgungskette](https://business.adobe.com/resources/webinars/adobe-on-the-content-supply-chain.html)

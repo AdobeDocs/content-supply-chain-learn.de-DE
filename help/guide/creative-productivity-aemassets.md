@@ -10,13 +10,13 @@ level: Beginner
 last-substantial-update: 2023-11-16T00:00:00Z
 jira: KT-14155
 hidefromtoc: true
-source-git-commit: 2ad7a5cfde323b7a6f726f98ec4c5eafd7cd4d86
+exl-id: e66480f9-c7af-4b15-afdf-dd89a792af20
+source-git-commit: 32c8aba7f65e8eb72f52c532a623df52d1473ffd
 workflow-type: tm+mt
 source-wordcount: '496'
 ht-degree: 41%
 
 ---
-
 
 # Kreative Produktivität: Supercharge-Kreativ-Teams
 
@@ -58,9 +58,9 @@ Die Adobe-Lösungen für kreative Produktivität:
         </a>
         <div>
           <a href="https://experienceleague.adobe.com/docs/courses/using/ExperienceManager-A-1-2020.1.aem" target="_blank">
-        <strong>Administratorzugriff auf Experience Manager konfigurieren</strong></a>
-        <p class="is-size-7 recs-limit-description">Erfahren Sie, wie sich Benutzer mit Adobe IMS authentifizieren, um as a Cloud Service zu AEM, und wie Adobe IMS-Benutzer, Benutzergruppen und Produktprofile verwendet werden, um den Zugriff auf AEM und die zugehörigen Funktionen zu steuern.</p>
-        <p><a href="https://experienceleague.adobe.com/docs/courses/using/ExperienceManager-A-1-2020.1.aem" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Weitere Infos</span></a></p>
+        <strong>Konfigurieren des Administratorzugriffs auf Experience Manager</strong></a>
+        <p class="is-size-7 recs-limit-description">Erfahren Sie, wie sich Benutzer mit Adobe IMS bei AEM as a Cloud Service authentifizieren und wie Adobe IMS-Benutzer, Benutzergruppen und Produktprofile verwendet werden, um den Zugriff auf AEM und die zugehörigen Funktionen zu steuern.</p>
+        <p><a href="https://experienceleague.adobe.com/docs/courses/using/ExperienceManager-A-1-2020.1.aem" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Weitere Informationen</span></a></p>
         </div>
       </td>
     </tr>
@@ -143,7 +143,7 @@ Die Adobe-Lösungen für kreative Produktivität:
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/creative-workflows/adobe-express.html" title="Integration mit Adobe Express">Adobe Expreß-Integration</a>
+              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/creative-workflows/adobe-express.html" title="Integration mit Adobe Express">Adobe Express-Integration</a>
           </p>
           <p class="is-size-6"><em>Erfahren Sie, wie Sie mit AEM Assets und Adobe Express die Lieferketten für Inhalte optimieren und so die Produktivität und Zugänglichkeit für alle Team-Mitglieder steigern können.</em></p>
       </div>
@@ -164,9 +164,9 @@ Die Adobe-Lösungen für kreative Produktivität:
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/content-fragments-console/overview.html?lang=de" title="Videos zur Inhaltsfragmentkonsole">Videos zur Inhaltsfragmentkonsole</a>
+              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/content-fragments-console/overview.html?lang=de" title="Videos zur Inhaltsfragmentkonsole">Videos zur Inhaltsfragmente-Konsole</a>
           </p>
-          <p class="is-size-6"><em>Eine Sammlung von Videos, die Ihnen dabei helfen, AEM Inhaltsfragment-Konsole und -Editor zu verstehen und zu verwenden.</em></p>
+          <p class="is-size-6"><em>Eine Sammlung von Videos, die Ihnen dabei helfen, die Konsole und den Editor AEM Inhaltsfragmente zu verstehen und zu verwenden.</em></p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/content-fragments-console/overview.html?lang=de" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
         <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Video ansehen</span>
@@ -185,7 +185,7 @@ Die Adobe-Lösungen für kreative Produktivität:
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/page-authoring/page-authoring-overview-feature-video-use.html" title="Verfassen einer Seite">Verfassen einer Seite</a>
+              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/page-authoring/page-authoring-overview-feature-video-use.html" title="Verfassen einer Seite">Bearbeiten einer Seite</a>
           </p>
           <p class="is-size-6"><em>Erfahren Sie, wie Sie eine Seite in Adobe Experience Manager Sites mithilfe der Benutzeroberfläche des Site-Editors verfassen.</em></p>
       </div>
@@ -206,7 +206,7 @@ Die Adobe-Lösungen für kreative Produktivität:
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/adobe-asset-link/setup.html" title="Adobe Asset Link-Einrichtung">Adobe Asset Link-Einrichtung</a>
+              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/adobe-asset-link/setup.html" title="Adobe Asset Link-Einrichtung">Adobe Asset Link-Setup</a>
           </p>
           <p class="is-size-6"><em>Erfahren Sie, wie Sie Adobe Asset Link für AEM as a Cloud Service einrichten, Benutzerberechtigungen und AEM as a Cloud Service konfigurieren und Adobe Asset Link installieren und verwenden.</em></p>
       </div>

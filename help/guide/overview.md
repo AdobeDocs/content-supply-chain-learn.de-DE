@@ -1,13 +1,13 @@
 ---
 title: Adobe [!DNL Content Supply Chain] Tutorials
 description: Beschleunigen und vereinfachen Sie Ihre Inhalte mit generativer KI und intelligenter Automatisierung. Die Adobe Content Supply Chain ist eine End-to-End-Lösung, mit der Sie Ihre Inhalte planen, erstellen, bereitstellen und analysieren können.
-source-git-commit: 77982009a37d9d15cbc5e93c7537bc4883789b28
+exl-id: 1dd1c04e-d405-4593-bcff-40d1d579958c
+source-git-commit: 32c8aba7f65e8eb72f52c532a623df52d1473ffd
 workflow-type: tm+mt
 source-wordcount: '224'
 ht-degree: 0%
 
 ---
-
 
 # Adobe [!DNL Content Supply Chain] Tutorials
 
@@ -18,14 +18,14 @@ In einer Content-Lieferkette kommen Menschen, Werkzeuge und Workflows zusammen, 
 Die folgenden Tutorials helfen Ihnen, die Erstellung und Bereitstellung von End-to-End-Inhalten mit der Leistung generativer KI zu optimieren.
 
 * [Workflow und Planung](workflow-and-planning.md) - Erstellen Sie verbundene Workflows, die transparent, schnell und effizient sind.
-* [Inhaltserstellung und -produktion](content-creation-and-production.md) - Transformieren Sie die kreative Arbeit mit der Generativen KI, automatisieren Sie Inhaltsvarianten in großem Maßstab und ermöglichen Sie Marketingexperten die Erstellung von Markeninhalten.
-* [Asset-Management](asset-management.md) - Zentralisieren, verwalten und steuern Sie Millionen von Assets in Ihrem Unternehmen.
+* [Inhaltserstellung und -produktion](content-creation-and-production.md) - Wandeln Sie die kreative Arbeit mit der generativen KI um, automatisieren Sie Inhaltsvarianten in großem Maßstab und ermöglichen Sie Marketern die Erstellung von Markeninhalten.
+* [Asset-Verwaltung](asset-management.md) - Zentralisieren, verwalten und steuern Sie Millionen von Assets in Ihrem Unternehmen.
 * [Versand und Aktivierung](delivery-and-activation.md) - Nahtlose Bereitstellung von Inhalten für jeden Schritt der Journey.
-* *Reporting und Einblicke* - Steigern Sie den ROI von Inhalten, indem Sie die Nutzung und Leistung von Inhalten verbessern.
+* *Berichterstellung und Einblicke* - Steigern Sie den ROI von Inhalten, indem Sie die Nutzung und Leistung von Inhalten verbessern.
 
 <!-- * [Reporting and insights](reporting-and-insights.md) - Enhance content ROI by improving content usage and performance. -->
 
 ## Zusätzliche Ressourcen
 
 * [Experience League-Ereignisse](https://experienceleague.adobe.com/events/)
-* [Adobe auf der Inhaltsversorgungskette](https://business.adobe.com/resources/webinars/adobe-on-the-content-supply-chain.html)
+* [Adobe in der Inhaltsversorgungskette](https://business.adobe.com/resources/webinars/adobe-on-the-content-supply-chain.html)

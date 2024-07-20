@@ -10,13 +10,13 @@ level: Beginner
 last-substantial-update: 2023-11-16T00:00:00Z
 jira: KT-14156
 hidefromtoc: true
-source-git-commit: b2f5670ac44b0cb4a59d3b685e6369e3b7e6db11
+exl-id: a72efe7e-e7ff-4845-9242-f038f10bb805
+source-git-commit: 32c8aba7f65e8eb72f52c532a623df52d1473ffd
 workflow-type: tm+mt
 source-wordcount: '810'
 ht-degree: 14%
 
 ---
-
 
 # Marketing-Agilität: Skalierbarkeit von Nicht-Kreativen
 
@@ -58,7 +58,7 @@ Die für die Marketing-Agilität verwendeten Adobe-Lösungen:
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/dynamic-media/images/smart-crop-feature-video-use.html?lang=de" title="Verwenden von smartem Zuschneiden mit AEM Assets Dynamic Media">Verwenden von smartem Zuschneiden mit AEM Assets Dynamic Media</a>
+              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/dynamic-media/images/smart-crop-feature-video-use.html?lang=de" title="Verwenden von smartem Zuschneiden mit AEM Assets Dynamic Media">Verwenden des smarten Zuschnitts mit AEM Assets Dynamic Media</a>
           </p>
           <p class="is-size-6"><em>Das smarte Zuschneiden nutzt Adobe Sensei, um zeitaufwendige und kostspielige Aufgaben beim Zuschneiden von Inhalten für responsives Design zu vermeiden.</em></p>
       </div>
@@ -79,7 +79,7 @@ Die für die Marketing-Agilität verwendeten Adobe-Lösungen:
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/create-social-posters.html" title="Social-Poster mit Firefly erstellen">Social-Poster mit Firefly erstellen</a>
+              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/create-social-posters.html" title="Social-Poster mit Firefly erstellen">Erstellen von Social-Poster mit Firefly</a>
           </p>
           <p class="is-size-6"><em>Erfahren Sie, wie Sie mithilfe von Adobe Firefly Text to Image im Adobe Expreß eine Werbekampagne für Social Media erstellen können. In diesem Tutorial wird der neue Adobe Expreß verwendet.</em></p>
       </div>
@@ -100,7 +100,7 @@ Die für die Marketing-Agilität verwendeten Adobe-Lösungen:
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/create-webinar-poster.html" title="Webinar-Poster mit Firefly erstellen">Webinar-Poster mit Firefly erstellen</a>
+              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/create-webinar-poster.html" title="Webinar-Poster mit Firefly erstellen">Erstellen von Webinarpostern mit Firefly</a>
           </p>
           <p class="is-size-6"><em>Erfahren Sie, wie Sie mit Adobe Firefly Text to Image im Adobe Expreß ein Webinar-Poster für ein virtuelles Reality-Ereignis erstellen können. In diesem Tutorial wird der neue Adobe Expreß verwendet.</em></p>
       </div>
@@ -121,7 +121,7 @@ Die für die Marketing-Agilität verwendeten Adobe-Lösungen:
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/create-blog-graphics.html" title="Einfache Durchführung von Social-Media-Kampagnen">Einfache Durchführung von Social-Media-Kampagnen</a>
+              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/create-blog-graphics.html" title="Einfache Durchführung von Social-Media-Kampagnen"> Einfaches Ausführen von Social-Media-Kampagnen</a>
           </p>
           <p class="is-size-6"><em>Erfahren Sie, wie Sie mithilfe von Adobe Firefly Text to Image einzigartige grafische Inhalte für Web-, Blog- und Social-Media-Kampagnen erstellen können. In diesem Tutorial wird der neue Adobe Expreß verwendet.</em></p>
       </div>
@@ -163,7 +163,7 @@ Die für die Marketing-Agilität verwendeten Adobe-Lösungen:
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/create-local-marketing.html" title="Erstellen von Flyer-Inhalten für Marketingkampagnen mit Firefly">Erstellen von Flyer-Inhalten für Marketingkampagnen mit Firefly</a>
+              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/create-local-marketing.html" title="Erstellen von Flyer-Inhalten für Marketingkampagnen mit Firefly">Erstellen Sie Flyer-Inhalte für Marketingkampagnen mit Firefly</a>
           </p>
           <p class="is-size-6"><em>Erfahren Sie im Adobe Expreß, wie Sie mithilfe von Adobe Firefly Text to Image lokalisierte Inhalte aus einer globalen Hotelmarketing-Kampagne erstellen können. </em></p>
       </div>
@@ -184,7 +184,7 @@ Die für die Marketing-Agilität verwendeten Adobe-Lösungen:
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/localized-marketing-content.html" title="Unterstützung verteilter Teams bei der Lokalisierung von Inhalten">Unterstützung verteilter Teams bei der Lokalisierung von Inhalten</a>
+              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/localized-marketing-content.html" title="Unterstützung verteilter Teams bei der Lokalisierung von Inhalten">Ermöglichen Sie verteilte Teams zur Lokalisierung von Inhalten</a>
           </p>
           <p class="is-size-6"><em>Erfahren Sie, wie verteilte Feldermarketing-Teams Inhalte für lokale Marketing-Kampagnen einfach an ihre Region anpassen können. </em></p>
       </div>
@@ -205,7 +205,7 @@ Die für die Marketing-Agilität verwendeten Adobe-Lösungen:
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/compelling-merchandise.html" title="Ansprechende Merchandising-Inhalte erstellen">Ansprechende Merchandising-Inhalte erstellen</a>
+              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/compelling-merchandise.html" title="Ansprechende Merchandising-Inhalte erstellen">Erstellen ansprechender Merchandising-Inhalte</a>
           </p>
           <p class="is-size-6"><em>Erfahren Sie, wie ein Commerce-Team mühelos überzeugende Bilder für einen neuen Inventarsatz in seinem Onlineshop erstellen kann.</em></p>
       </div>
@@ -226,7 +226,7 @@ Die für die Marketing-Agilität verwendeten Adobe-Lösungen:
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/multi-channel-marketing-content.html" title="Marketing-Teams können Inhalte für mehrere Kanäle erstellen">Marketing-Teams können Inhalte für mehrere Kanäle erstellen</a>
+              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/multi-channel-marketing-content.html" title="Marketing-Teams können Inhalte für mehrere Kanäle erstellen">Ermöglichen Sie Marketing-Teams, Inhalte für mehrere Kanäle zu erstellen</a>
           </p>
           <p class="is-size-6"><em>Erfahren Sie, wie Event-Marketing-Teams einzigartige Inhalte erstellen können, um Besucher für Online-Veranstaltungen anzuziehen.</em></p>
       </div>
@@ -247,9 +247,9 @@ Die für die Marketing-Agilität verwendeten Adobe-Lösungen:
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/stylize-this-PDF.html" title="Stilistieren Sie diese PDF">Stilistieren Sie diese PDF</a>
+              <a href="https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/stylize-this-PDF.html" title="Stilistieren Sie diese PDF">Diese PDF stilisieren</a>
           </p>
-          <p class="is-size-6"><em>Erfahren Sie, wie Sie mit den integrierten benutzerfreundlichen Designwerkzeugen in Adobe Expreß professionell aussehende PDF erstellen. In diesem Video-Tutorial wird das neue Workspace-Erlebnis verwendet.</em></p>
+          <p class="is-size-6"><em>Erfahren Sie, wie Sie mit den integrierten benutzerfreundlichen Designwerkzeugen in Adobe Express professionell aussehende PDF erstellen. In diesem Video-Tutorial wird das neue Workspace-Erlebnis verwendet.</em></p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/stylize-this-PDF.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
         <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Video ansehen</span>
@@ -268,7 +268,7 @@ Die für die Marketing-Agilität verwendeten Adobe-Lösungen:
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/content-automation/overview.html" title="Übersicht über die Inhaltsautomatisierung mit Creative Cloud-Services">Übersicht über die Inhaltsautomatisierung mit Creative Cloud-Diensten</a>
+              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/content-automation/overview.html" title="Übersicht über die Inhaltsautomatisierung mit Creative Cloud-Services">Überblick über die Inhaltsautomatisierung mit Creative Cloud-Diensten</a>
           </p>
           <p class="is-size-6"><em>Eine Übersicht über die Anwendung von Photoshop- und Lightroom-Funktionen bei der Inhaltsautomatisierung in Adobe Experience Manager Assets.</em></p>
       </div>
@@ -289,7 +289,7 @@ Die für die Marketing-Agilität verwendeten Adobe-Lösungen:
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/creative-workflows/adobe-express.html" title="Integration mit Adobe Express">Adobe Expreß-Integration</a>
+              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/creative-workflows/adobe-express.html" title="Integration mit Adobe Express">Adobe Express-Integration</a>
           </p>
           <p class="is-size-6"><em>Erfahren Sie, wie Sie mit AEM Assets und Adobe Express die Lieferketten für Inhalte optimieren und so die Produktivität und Zugänglichkeit für alle Team-Mitglieder steigern können.</em></p>
       </div>
@@ -470,4 +470,4 @@ Die für die Marketing-Agilität verwendeten Adobe-Lösungen:
 ## Zusätzliche Ressourcen
 
 * [Experience League-Ereignisse](https://experienceleague.adobe.com/events/)
-* [Adobe auf der Inhaltsversorgungskette](https://business.adobe.com/resources/webinars/adobe-on-the-content-supply-chain.html)
+* [Adobe in der Inhaltsversorgungskette](https://business.adobe.com/resources/webinars/adobe-on-the-content-supply-chain.html)

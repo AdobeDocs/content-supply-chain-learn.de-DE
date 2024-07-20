@@ -18,7 +18,7 @@ ht-degree: 7%
 + [Asset-Management](asset-management.md)
 + [Versand und Aktivierung](delivery-and-activation.md)
 + [Reporting und Einblicke](reporting-and-insights.md)
-+ ausgeblendet {#hidden}
++ hidden {#hidden}
    + [Kreativität](creative-productivity.md)
    + [Kreativität mit AEM Assets](creative-productivity-aemassets.md)
    + [Marketing-Agilität](marketing-agility.md)

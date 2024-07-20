@@ -30,7 +30,7 @@ Die für die Aktivierung und Analyse von Inhalten verwendeten Adobe-Lösungen:
 
 >[!TIP]
 >
->Unser Adobe-Produktexpertenteam hat eine Reihe von Integrations-Tutorials für wichtige Anwendungsfälle der Inhaltsversorgungskette zusammengestellt. Wenn Sie mehr als eine Lösung verwenden, erfahren Sie, wie Sie sie am besten integrieren können!  Sehen Sie sich die [Tutorials zur Integration von Inhaltsversorgungsketten](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/solution-categories/content-supply-chain.html?lang=en).
+>Unser Adobe-Produktexpertenteam hat eine Reihe von Integrations-Tutorials für wichtige Anwendungsfälle der Inhaltsversorgungskette zusammengestellt. Wenn Sie mehr als eine Lösung verwenden, erfahren Sie, wie Sie sie am besten integrieren können!  Sehen Sie sich die Tutorials zur Integration der [Inhaltslieferkette](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/solution-categories/content-supply-chain.html?lang=en) an.
 
 ## Tutorials
 
@@ -49,10 +49,10 @@ Die für die Aktivierung und Analyse von Inhalten verwendeten Adobe-Lösungen:
           <p class="headline is-size-6 has-text-weight-bold">
             <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/content-fragments-console/overview.html?lang=de" title="Übersicht über die Konsole/den Editor für Inhaltsfragmente">Übersicht über die Konsole/den Editor für Inhaltsfragmente</a>
           </p>
-          <p class="is-size-6">Eine Sammlung von Videos, die Ihnen dabei helfen, AEM Inhaltsfragment-Konsole und -Editor zu verstehen und zu verwenden.</p>
+          <p class="is-size-6">Eine Sammlung von Videos, die Ihnen dabei helfen, die Konsole und den Editor AEM Inhaltsfragmente zu verstehen und zu verwenden.</p>
         </div>
         <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/content-fragments-console/overview.html?lang=de" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-          <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Mehr dazu</span>
+          <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">mehr lesen</span>
         </a>
       </div>
     </div>
@@ -69,12 +69,12 @@ Die für die Aktivierung und Analyse von Inhalten verwendeten Adobe-Lösungen:
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/edge-delivery-services/sidekick-plugin.html?lang=de" title="AEM Assets Sidekick-Plug-in und Edge Delivery Services">AEM Assets Sidekick-Plug-in und Edge Delivery Services</a>
+            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/edge-delivery-services/sidekick-plugin.html?lang=de" title="AEM Assets Sidekick-Plug-in und Edge Delivery Services">AEM Assets Sidekick-Plugin und Edge Delivery Services</a>
           </p>
           <p class="is-size-6">Erfahren Sie, wie Sie das AEM Assets Sidekick-Plug-in nutzen können, um verwaltete Assets in leistungsstarke Erlebnisse zu integrieren, die von Edge Delivery Services bereitgestellt werden.</p>
         </div>
         <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/edge-delivery-services/sidekick-plugin.html?lang=de" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-          <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Mehr dazu</span>
+          <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">mehr lesen</span>
         </a>
       </div>
     </div>
@@ -91,12 +91,12 @@ Die für die Aktivierung und Analyse von Inhalten verwendeten Adobe-Lösungen:
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/assets-essentials-overview.html" title="Übersicht über Assets Essentials">Assets Essentials - Überblick</a>
+            <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/assets-essentials-overview.html" title="Übersicht über Assets Essentials">Überblick über Assets Essentials</a>
           </p>
           <p class="is-size-6">Verschaffen Sie sich einen Überblick über die Assets Essentials-Funktionen und wie sie in Adobe Journey Optimizer verwendet werden können.</p>
         </div>
         <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/assets-essentials-overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-          <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Mehr dazu</span>
+          <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">mehr lesen</span>
         </a>
       </div>
     </div>
@@ -118,7 +118,7 @@ Die für die Aktivierung und Analyse von Inhalten verwendeten Adobe-Lösungen:
           <p class="is-size-6">Erstellen Sie AEM Headless-Landingpage, die den gesamten Inhalt auf AEM Headless auf ExL abruft und aktualisiert, um SEO-konform zu sein.</p>
         </div>
         <a href="https://experienceleague.adobe.com/landing/experience-manager/headless/developer.html?lang=de" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-          <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Mehr dazu</span>
+          <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">mehr lesen</span>
         </a>
       </div>
     </div>
@@ -140,7 +140,7 @@ Die für die Aktivierung und Analyse von Inhalten verwendeten Adobe-Lösungen:
           <p class="is-size-6">Erfahren Sie, wie Sie die Metadatenzuordnung zwischen Workfront-Feldern und Assets Essentials-Eigenschaften konfigurieren und Assets Essentials so konfigurieren, dass die zugeordneten Werte angezeigt werden.</p>
         </div>
         <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/map-metadata.html?lang=de" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-          <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Mehr dazu</span>
+          <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">mehr lesen</span>
         </a>
       </div>
     </div>
@@ -157,12 +157,12 @@ Die für die Aktivierung und Analyse von Inhalten verwendeten Adobe-Lösungen:
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html" title="Erstellen von Inhalten mit Email Designer">Erstellen von Inhalten mit Email Designer</a>
+            <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html" title="Erstellen von Inhalten mit Email Designer">Erstellen von Inhalten mit der E-Mail-Designer</a>
           </p>
           <p class="is-size-6">Hier erfahren Sie, wie Sie E-Mails von Grund auf neu erstellen. Erfahren Sie, wie Sie Assets aus der AEM Assets Essentials-Bibliothek verwenden, das Design responsiver E-Mails bearbeiten und E-Mails aus Vorlagen erstellen.†</p>
         </div>
         <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-          <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Mehr dazu</span>
+          <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">mehr lesen</span>
         </a>
       </div>
     </div>
@@ -179,12 +179,12 @@ Die für die Aktivierung und Analyse von Inhalten verwendeten Adobe-Lösungen:
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/site-template/overview.html?lang=de" title="Überblick über die schnelle Site-Erstellung">Überblick über die schnelle Site-Erstellung</a>
+            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/site-template/overview.html?lang=de" title="Überblick über die schnelle Site-Erstellung">Überblick über die Site-Erstellung </a>
           </p>
           <p class="is-size-6">Erfahren Sie, wie Sie mit einem Ansatz mit niedriger Code Ihre erste Site in Adobe Experience Manager mit der Schnellen Site-Erstellung und einer vordefinierten Site-Vorlage erstellen. </p>
         </div>
         <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/site-template/overview.html?lang=de" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-          <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Mehr dazu</span>
+          <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">mehr lesen</span>
         </a>
       </div>
     </div>
@@ -206,7 +206,7 @@ Die für die Aktivierung und Analyse von Inhalten verwendeten Adobe-Lösungen:
           <p class="is-size-6">undefined</p>
         </div>
         <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/metadata/video-smart-tags.html?lang=de" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-          <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Mehr dazu</span>
+          <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">mehr lesen</span>
         </a>
       </div>
     </div>
@@ -223,12 +223,12 @@ Die für die Aktivierung und Analyse von Inhalten verwendeten Adobe-Lösungen:
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/integrations/target/personalization-web-page" title="Personalisierung vollständiger Web-Seiten-Erlebnisse">Personalisierung vollständiger Webseiten-Erlebnisse</a>
+            <a href="https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/integrations/target/personalization-web-page" title="Personalisierung vollständiger Web-Seiten-Erlebnisse">Personalization der vollständigen Web-Seiten-Erlebnisse</a>
           </p>
           <p class="is-size-6">Erfahren Sie, wie Sie eine Aktivität erstellen, um Ihre auf AEM gehosteten Site-Seiten mit Adobe Target auf eine neue Seite umzuleiten.</p>
         </div>
         <a href="https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/integrations/target/personalization-web-page" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-          <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Mehr dazu</span>
+          <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">mehr lesen</span>
         </a>
       </div>
     </div>
@@ -245,12 +245,12 @@ Die für die Aktivierung und Analyse von Inhalten verwendeten Adobe-Lösungen:
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/target/personalization-using-vec.html" title="Personalisierung mit Visual Experience Composer">Personalisierung mit Visual Experience Composer</a>
+            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/target/personalization-using-vec.html" title="Personalisierung mit Visual Experience Composer">Personalization mit Visual Experience Composer</a>
           </p>
           <p class="is-size-6">Erfahren Sie, wie Sie mit Visual Experience Composer (VEC) eine A/B-Test-Target-Aktivität erstellen.</p>
         </div>
         <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/target/personalization-using-vec.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-          <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Mehr dazu</span>
+          <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">mehr lesen</span>
         </a>
       </div>
     </div>
@@ -272,7 +272,7 @@ Die für die Aktivierung und Analyse von Inhalten verwendeten Adobe-Lösungen:
           <p class="is-size-6">Erfahren Sie, wie Sie eine Adobe Target-Aktivität mit AEM Experience Fragment-Angeboten erstellen und testen.</p>
         </div>
         <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/target/create-target-activity.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-          <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Mehr dazu</span>
+          <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">mehr lesen</span>
         </a>
       </div>
     </div>
@@ -294,7 +294,7 @@ Die für die Aktivierung und Analyse von Inhalten verwendeten Adobe-Lösungen:
           <p class="is-size-6">Das smarte Zuschneiden nutzt Adobe Sensei, um zeitaufwendige und kostspielige Aufgaben beim Zuschneiden von Inhalten für responsives Design zu vermeiden.</p>
         </div>
         <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/dynamic-media/images/smart-crop-feature-video-use.html?lang=de" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-          <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Mehr dazu</span>
+          <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">mehr lesen</span>
         </a>
       </div>
     </div>
@@ -316,7 +316,7 @@ Die für die Aktivierung und Analyse von Inhalten verwendeten Adobe-Lösungen:
           <p class="is-size-6">*Beschreibung:* Smart-Tags für Bilder erweitern AEM Suchfunktionen, indem Metadaten-Tags automatisch und intelligent zu Bild-Assets hinzugefügt werden, basierend auf dem Inhalt des Bildes.</p>
         </div>
         <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/metadata/image-smart-tags.html?lang=de" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-          <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Mehr dazu</span>
+          <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">mehr lesen</span>
         </a>
       </div>
     </div>
@@ -333,12 +333,12 @@ Die für die Aktivierung und Analyse von Inhalten verwendeten Adobe-Lösungen:
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/search-boost.html?lang=de" title="Verbesserte Suchbeschleunigung">Verbesserte Suchbeschleunigung</a>
+            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/search-boost.html?lang=de" title="Verbesserte Suchbeschleunigung">Verbesserter Suchschub</a>
           </p>
           <p class="is-size-6">Erfahren Sie, wie Sie Schlüsselwörter und Ausdrücke hinzufügen können, um die Suchrelevanz eines Assets in Adobe Experience Manager zu steigern.</p>
         </div>
         <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/search-boost.html?lang=de" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-          <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Mehr dazu</span>
+          <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">mehr lesen</span>
         </a>
       </div>
     </div>
@@ -348,4 +348,4 @@ Die für die Aktivierung und Analyse von Inhalten verwendeten Adobe-Lösungen:
 ## Zusätzliche Ressourcen
 
 * [Experience League-Ereignisse](https://experienceleague.adobe.com/events/)
-* [Adobe auf der Inhaltsversorgungskette](https://business.adobe.com/resources/webinars/adobe-on-the-content-supply-chain.html)
+* [Adobe in der Inhaltsversorgungskette](https://business.adobe.com/resources/webinars/adobe-on-the-content-supply-chain.html)

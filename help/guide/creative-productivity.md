@@ -10,13 +10,13 @@ level: Beginner
 last-substantial-update: 2023-11-16T00:00:00Z
 jira: KT-14155
 hidefromtoc: true
-source-git-commit: b2f5670ac44b0cb4a59d3b685e6369e3b7e6db11
+exl-id: b856f8a3-c353-4f10-8d04-5758ec59b611
+source-git-commit: 32c8aba7f65e8eb72f52c532a623df52d1473ffd
 workflow-type: tm+mt
 source-wordcount: '452'
 ht-degree: 1%
 
 ---
-
 
 # Kreative Produktivität: Supercharge-Kreativ-Teams
 
@@ -61,7 +61,7 @@ Die Adobe-Lösungen für kreative Produktivität:
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/enable-creative-efficiency.html" title="Kreative Effizienz aktivieren">Kreative Effizienz aktivieren</a>
+              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/enable-creative-efficiency.html" title="Kreative Effizienz aktivieren">Aktivieren der kreativen Effizienz</a>
           </p>
           <p class="is-size-6"><em>Erfahren Sie, wie Sie die Inhaltserstellung mit generativen KI-gestützten Tools in Adobe Photoshop und Illustrator beschleunigen können.</em></p>
       </div>
@@ -145,7 +145,7 @@ Die Adobe-Lösungen für kreative Produktivität:
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/jumpstart-ideation.html" title="Jumpstart-Kreativideen">Jumpstart-Kreativideen</a>
+              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/jumpstart-ideation.html" title="Jumpstart-Kreativideen">Jumpstart-Kreatividee</a>
           </p>
           <p class="is-size-6"><em>Hier erfahren Sie, wie Sie mit der Entwicklung kreativer Inhalte für eine Marketing-Kampagne beginnen können. </em></p>
       </div>
@@ -166,7 +166,7 @@ Die Adobe-Lösungen für kreative Produktivität:
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/generative-fill.html" title="Generatives Ausfüllen in Photoshop">Generatives Ausfüllen in Photoshop</a>
+              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/generative-fill.html" title="Generatives Ausfüllen in Photoshop">Generative Füllung in Photoshop</a>
           </p>
           <p class="is-size-6"><em>Erfahren Sie, wie Sie in Adobe Photoshop mithilfe von Generative Fill (powered by Adobe Firefly) ein Konzept für eine Reiseanzeige erstellen können.</em></p>
       </div>
@@ -179,15 +179,15 @@ Die Adobe-Lösungen für kreative Produktivität:
   <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
     <div class="card-image">
       <figure class="image x-is-16by9">
-        <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/cc-libraries.html" title="Verwenden von CC-Bibliotheken" tabindex="-1">
-          <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3420227?format=jpeg" alt="Verwenden von CC-Bibliotheken">
+        <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/cc-libraries.html" title="Verwenden von CC Libraries" tabindex="-1">
+          <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3420227?format=jpeg" alt="Verwenden von CC Libraries">
         </a>
       </figure>
     </div>
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/cc-libraries.html" title="Verwenden von CC-Bibliotheken">Verwenden von CC-Bibliotheken</a>
+              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/cc-libraries.html" title="Verwenden von CC Libraries">Verwenden Sie CC Libraries</a>
           </p>
           <p class="is-size-6"><em>Erfahren Sie, wie Sie CC Library-Assets für Ihr Team freigeben können.</em></p>
       </div>
@@ -213,7 +213,7 @@ Die Adobe-Lösungen für kreative Produktivität:
           <p class="is-size-6"><em>Erfahren Sie, wie Sie mit der Frame.io-Erweiterung für Adobe Premiere Pro Assets zentralisieren und freigeben, Echtzeitkommentare empfangen, Revisionen verfolgen und schnellere Genehmigungen erhalten können.</em></p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/videooverview/videotutorials/video-review-frame-io.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Weitere Infos</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Mehr erfahren</span>
       </a>
     </div>
   </div>
@@ -433,4 +433,4 @@ Die Adobe-Lösungen für kreative Produktivität:
 ## Zusätzliche Ressourcen
 
 * [Experience League-Ereignisse](https://experienceleague.adobe.com/events/)
-* [Adobe auf der Inhaltsversorgungskette](https://business.adobe.com/resources/webinars/adobe-on-the-content-supply-chain.html)
+* [Adobe in der Inhaltsversorgungskette](https://business.adobe.com/resources/webinars/adobe-on-the-content-supply-chain.html)
